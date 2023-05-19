@@ -1,7 +1,7 @@
 ### Marcio De Godoi
 
 
-- 🌱 I’m currently learning JS, TS, C# and NoSQL
+- 🌱 I’m currently learning JS, TS, ReactJS with nextJS, C# and NoSQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
