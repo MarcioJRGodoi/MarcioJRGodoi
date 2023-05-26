@@ -12,6 +12,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" src="https://raw.githubusercontent.com/nodejs/nodejs.org/main/public/static/images/logo-hexagon.svg" alt="Node.js logo" height="30" widht="40">
   <img align="center" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js logo" height="30" widht="40">
+  <img align="center" src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite.js logo" height="30" widht="40">
   
  ###
   
