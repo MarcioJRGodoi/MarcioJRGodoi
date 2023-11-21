@@ -6,7 +6,7 @@
  </div>
 <h2 align="left">
 </h2>
-<p>.</p>
+<p>Desenvolvedor em desenvolvimento.</p>
 
 <p>You can contact me by email:<a href="mailto:marciojrgodoi@gmail.com">marciojrgodoi@gmail.com</a>.</p> 
 <br>
