@@ -1,34 +1,27 @@
-### Marcio De Godoi
+<h1> Hi, I'm Marcio De Godoi! 💻</h1>
 
+<div> 
+     <a href = "mailto:marciojrgodoi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+     <a href="https://www.linkedin.com/in/marcio-de-godoi-jr-41962b235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
+<h2 align="left">
+This is my favorite environment, where ideas and innovation become code.
+</h2>
+<p>I'm a developer fascinated by technology! Since childhood, when I had my first contact with computing, I have explored and discovered more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. My dream is to travel the world, sharing my knowledge and gaining new experiences. I believe that access to knowledge is fundamental for everyone, and I also have the desire to live in Suíça or Canada for a period of time.</p>
 
-- 🌱 I’m currently learning JS, TS, ReactJS with nextJS, C# and NoSQL
+<p>You can contact me by email:<a href="mailto:marciojrgodoi@gmail.com">marciojrgodoi@gmail.com</a>.</p> 
+<br>
 
+<p>I have knowledge in: </p>
+<div align="left">
 
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,vscode,cs,dotnet,java,nextjs,redis,postgres
+)](https://skillicons.dev)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" src="https://raw.githubusercontent.com/nodejs/nodejs.org/main/public/static/images/logo-hexagon.svg" alt="Node.js logo" height="30" widht="40">
-  <img align="center" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js logo" height="30" widht="40">
-  <img align="center" src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite.js logo" height="30" widht="40">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="30" widht="40"/>
-
+  </div>
   
- ###
-  <div align="center">
-  <a href="https://github.com/MarcioJRGodoi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioJRGodoi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioJRGodoi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-    <br/>
-  <div> 
- 	<a href="https://twitter.com/TomaMaguke" target="_blank"><img src="https://img.shields.io/twitter/url?style=for-the-badge&logo=Twitter&url=https%3A%2F%2Ftwitter.com%2FTomaMaguke&logocolor=blue" target="_blank"></a>
- <a href="https://discord.gg/TomaMaguke#5802" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&&logoColor=white&logo=Discord" target="_blank"></a> 
-  <a href = "mailto:marciojrgodoi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcio-de-godoi-jr-41962b235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcioJRGodoi&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcioJRGodoi&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcioJRGodoi&theme=nord_dark) |
+| :-: | :-: | :-: |
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcioJRGodoi&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcioJRGodoi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
