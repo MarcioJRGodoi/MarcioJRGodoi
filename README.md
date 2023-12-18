@@ -14,7 +14,7 @@
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,vscode,cs,dotnet,java,nextjs,redis,postgres
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,git,vscode,cs,dotnet,java,nextjs,redis,postgres
 )](https://skillicons.dev)
 
   </div>
